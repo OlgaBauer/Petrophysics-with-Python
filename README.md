@@ -6,4 +6,4 @@ Here I have a series of Jupyter Notebooks where I am going through various aspec
 1. Loading LAS file and creating Scatter Plot
 2. Creating well log plots
 3. Matplotlib Plot Fills
-4. Matplotlib Gamma Ray plot fills
+4. Matplotlib GR plot fills
