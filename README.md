@@ -5,5 +5,4 @@ Here I have a series of Jupyter Notebooks where I am going through various aspec
 # Content:
 1. Loading LAS file and creating Scatter Plot
 2. Creating well log plots
-3. Matplotlib Plot Fills
-4. Matplotlib GR plot fills
+3. Matplotlib GR plot fills
